@@ -11,6 +11,7 @@
         <el-menu-item index="/index/one">商品列表</el-menu-item>
         <el-menu-item index="/index/img">商品管理</el-menu-item>
         <el-menu-item index="/index/list">商品详情</el-menu-item>
+        <el-menu-item index="/index/list">商品分支</el-menu-item>
       </el-menu>
     </el-aside>
     <el-main>
